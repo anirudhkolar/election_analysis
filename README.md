@@ -21,6 +21,6 @@ Diana DeGette won the election with 73.8% of the votes for a total of 272,892 vo
 
 3.	Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 If the election commission were to conduct surveys and acquire a sufficient amount of data about voters from any precinct in a different election, we could then conduct all sorts of analyses in a variety of different ways. For example, the commission might have collected data about voters’ income, ethnicity, and political party affiliation. In that case, the options are as follows:
-1.	We could conduct a similar analysis about income data and determine the number and percentage of votes for each socioeconomic class.
-2.	We could conduct a similar analysis about ethnicity data and determine the number and percentage of votes for each ethnic group.
-3.	We could conduct a similar analysis about affiliation data and determine the number and percentage of votes for each political party.
+We could conduct a similar analysis about income data and determine the number and percentage of votes for each socioeconomic class.
+We could conduct a similar analysis about ethnicity data and determine the number and percentage of votes for each ethnic group.
+We could conduct a similar analysis about affiliation data and determine the number and percentage of votes for each political party.
